@@ -1,3 +1,5 @@
 env/
 secret*
 *.pyc
+.idea
+db.sqlite3
