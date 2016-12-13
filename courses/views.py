@@ -6,3 +6,7 @@ def index(request):
     """Very basic index page"""
 
     return HttpResponse('Hello, world. Welcome.')
+
+def test(request):
+
+    return HttpResponse('I hate everything.')
